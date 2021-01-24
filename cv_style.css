@@ -5,7 +5,8 @@ body {
     font-size: medium;
     line-height: 1.5;
     padding: 4em 1em;
-    color: #555;
+    color: #222222;
+    background-color:rgb(247, 236, 222);
 }
 
 ul {
@@ -16,9 +17,3 @@ ul {
 p {
     margin-left: 40px;
 }
-
-.tab {
-    margin-left: 40px;
-}
-
-
